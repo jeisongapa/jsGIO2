@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "pactos.html",
     "theme": {
       "name": "homem5",
       "title": "HomeM5",
@@ -1085,10 +1085,10 @@
         }
       ]
     },
-    "page1.html": {
+    "pactos.html": {
       "settings": {
         "title": "Pactos con Lucifer",
-        "meta_descr": "",
+        "meta_descr": "Si nos contactas ahora mismo le mostraremos como puede tener una nueva vida haciendo un poderoso pacto con el diablo.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
